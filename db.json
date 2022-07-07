@@ -1,4 +1,4 @@
-[
+{"user":[
     {
       "email": "shivam@gmail.com",
       "password": "123456",
@@ -250,3 +250,4 @@
       "id": 44
     }
   ]
+}
